@@ -45,6 +45,6 @@
 
 4. ✔️ If everything is configured correctly, you will see successful connection to the database and successful database migration.
 
-5. 🚀 Now it's time to navigate to the [client](#client) folder and run the client, which is written in Next.js. (Or you can write your own client app and connect to this URL).
+5. 🚀 Now it's time to navigate to the [client](https://github.com/mutasim77/quick-notes/tree/master/client) folder and run the client, which is written in Next.js. (Or you can write your own client app and connect to this URL).
 
 > Thank you for showing interest in this project. Happy coding! 🎉

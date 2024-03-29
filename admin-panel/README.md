@@ -36,3 +36,5 @@ VITE_API_URL=
     ```
 
 4. 🌐 Access the admin panel in your browser at the provided URL.
+
+> Thank you for showing interest in this project. Happy coding! 🎉

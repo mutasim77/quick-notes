@@ -37,7 +37,7 @@
 
 4. 🌐 Access the app in your browser at the provided URL (usually `http://localhost:3000`).
 
-5. ⚠️ Make sure the backend is running. The backend is written in GoLang. You can find it in the [server](#server) folder.
+5. ⚠️ Make sure the backend is running. The backend is written in GoLang. You can find it in the [server](https://github.com/mutasim77/quick-notes/tree/master/server) folder.
 
 
 > Thank you for showing interest in this project. Happy coding! 🎉

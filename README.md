@@ -14,7 +14,7 @@
 
 ### Backend Server (server/)
 - 🐍 Golang
-- 🔑 jwt-go for JWT token generation
+- 🔑 jwt-go for JWT token-based authentication and authorization
 - 🔌 Fiber for web server implementation
 - 🛠️ Gorm ORM for database manipulation
 
@@ -59,3 +59,25 @@
 
 > [!IMPORTANT]
 > Thank you for your interest in my project. Currently, it is still a work in progress and actively under development. That's why, for the time being, I haven't deployed it anywhere (even though I briefly deployed it in development mode and then removed it). Perhaps later, I will consider deploying it on AWS Cloud.
+
+
+## 📸 Demo
+Here, I will provide some screenshots to give you a glimpse of how the project looks. Since it's not deployed yet, viewing these screenshots will provide an overview of the project's user interface and functionality.
+
+### Home Page 🧇
+1. 
+<img width="1000" alt="Home Page" src="https://github.com/mutasim77/quick-notes/assets/96326525/ae00b1a6-b82e-458f-b2a7-13e40c8c0363">
+2.
+<img width="1000" alt="Home Page" src="https://github.com/mutasim77/quick-notes/assets/96326525/382e45aa-ba80-45a7-9ed5-f87ca1be05a9">
+
+### Login Page 🥯
+1. 
+<img width="1000" alt="Login Page" src="https://github.com/mutasim77/quick-notes/assets/96326525/1b200e5a-9941-453e-96df-faaea57bcea8">
+
+### Notes Page 🍟
+1.
+<img width="1000" alt="Notes Page" src="https://github.com/mutasim77/quick-notes/assets/96326525/4bba2d1e-54d8-46b0-91fe-445cf970bf41">
+
+### Admin Panel 🌯
+1.
+![image](https://github.com/mutasim77/quick-notes/assets/96326525/9c3e53e9-21cb-4618-90f7-2d1febaa82d5)

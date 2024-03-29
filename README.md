@@ -58,7 +58,7 @@
 5. 🌐 Access the client and admin panel in your browser at the provided URLs.
 
 > [!IMPORTANT]
-> Thank you for your interest in my project. Currently, it is still a work in progress and actively under development. That's why, for the time being, I haven't deployed it anywhere (even though I briefly deployed it in development mode and then removed it). Perhaps later, I will consider deploying it on AWS Cloud.
+> The project is currently a work in progress and actively under development. That's why, for the time being, I haven't deployed it anywhere (even though I briefly deployed it in development mode and then removed it). Perhaps later, I will consider deploying it on AWS Cloud.
 
 
 ## 📸 Demo
@@ -81,3 +81,9 @@ Here, I will provide some screenshots to give you a glimpse of how the project l
 ### Admin Panel 🌯
 1.
 ![image](https://github.com/mutasim77/quick-notes/assets/96326525/9c3e53e9-21cb-4618-90f7-2d1febaa82d5)
+
+
+> [!NOTE]
+> Thank you for taking the time to explore this project. If you found it interesting or useful, I would greatly appreciate it if you could give it a star ⭐. If you have any questions, feedback, or suggestions regarding the project, please feel free to open an issue.
+
+Happy coding! 🚀
